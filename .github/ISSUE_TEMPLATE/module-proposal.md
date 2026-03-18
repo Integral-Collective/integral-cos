@@ -1,6 +1,6 @@
 ---
 name: Module Proposal
-about: Describe this issue template's purpose here.
+about: A proposal to add, change, or defer a module
 title: ''
 labels: ''
 assignees: ''
