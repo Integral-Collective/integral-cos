@@ -39,7 +39,7 @@ designs, voluntary labor, and real material conditions.
 **Phase 1 — Specification and governance setup.**
 
 No implementation has begun. The minimum viable module set for COS is defined 
-in the [development guide](https://github.com/integralcollective/integral-devguide). 
+in the [development guide](https://github.com/integral-collective/integral-devguide). 
 The white paper's formal COS specification serves as the primary technical reference.
 
 ## Minimum Viable Modules
@@ -58,9 +58,9 @@ are in Section 3.4 of the development guide.
 
 ## References
 
-- [Integral Development Guide](https://github.com/integralcollective/integral-devguide)
-- [Integral White Paper](https://github.com/integralcollective/integral-whitepaper)
-- [Interface Specifications](https://github.com/integralcollective/integral-specifications)
+- [Integral Development Guide](https://github.com/integral-collective/integral-devguide)
+- [Integral White Paper](https://github.com/integral-collective/integral-whitepaper)
+- [Interface Specifications](https://github.com/integral-collective/integral-specifications)
 
 ---
 
